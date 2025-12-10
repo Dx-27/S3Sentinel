@@ -15,7 +15,7 @@ CloudGuard Analyzer is a compact Streamlit app that scans an AWS account's S3 bu
 - 🔐 Detects whether default bucket encryption is enabled
 - 🗂 Checks if versioning is enabled
 - 📈 Risk scoring and per-bucket "DANGER" / "SAFE" classification
-- 📄 Generates a summarized PDF report (`CloudGuard_Report.pdf`)
+- 📄 Generates a summarized PDF report (`CloudGuard.pdf`)
 - 🧾 Simple Streamlit UI with progress and expandable per-bucket details
 
 ---
