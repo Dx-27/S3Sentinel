@@ -1,4 +1,4 @@
-# Cloudguard ☁️🔒
+# S3Sentinel ☁️🔒
 
 CloudGuard Analyzer is a compact Streamlit app that scans an AWS account's S3 buckets for common misconfigurations and generates a quick PDF audit. It focuses on three core checks per bucket:
 - Public access block configuration
@@ -24,8 +24,8 @@ CloudGuard Analyzer is a compact Streamlit app that scans an AWS account's S3 bu
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Dx-27/Cloudguard.git
-cd Cloudguard
+git clone https://github.com/Dx-27/S3Sentinel.git
+cd S3Sentinel
 ```
 
 ### 2. Create & activate a virtual environment
